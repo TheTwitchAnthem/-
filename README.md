@@ -14,10 +14,6 @@ git clone https://github.com/yourusername/process-scanner.git
 cd process-scanner
 ```
 
-2. Установите зависимости:
-```bash
-pip install -r requirements.txt
-```
 
 ## Использование
 
